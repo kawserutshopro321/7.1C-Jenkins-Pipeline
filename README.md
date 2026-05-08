@@ -1,3 +1,3 @@
 # 7.1C-Jenkins-Pipeline
 check 1
-check 2 for video
+checking the pipeline for my videos
